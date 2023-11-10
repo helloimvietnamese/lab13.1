@@ -1,0 +1,24 @@
+img {
+  position: relative;
+  object-fit: cover;
+  height: 440px;
+}
+.carousel-caption {
+  text-align: left;
+}
+
+footer {
+  margin-left: 7rem;
+  margin-bottom: 2rem;
+}
+
+footer p {
+  display: inline;
+  position: absolute;
+}
+
+footer div a {
+  position: relative;
+  top: 0;
+  left: 90%;
+}
